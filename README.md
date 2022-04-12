@@ -8,3 +8,7 @@ PS: lembre-se rode o código, leia ele. Entenda e crie sua lógica por cima só 
 
 <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+<h3>🔥Projeto rodando🔥</h3>
+
+![flavyss](https://github.com/flavyss/port-scan-com-python/blob/406061418432cc4a0701cc05f99b80d283697bf6/port.png)
+
